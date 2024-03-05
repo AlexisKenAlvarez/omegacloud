@@ -122,19 +122,19 @@ const About = () => {
         <div className="md:w-1/2 w-full flex gap-5 about-images  lg:mt-0 px-5 md:px-0 scale-[0.8] -skew-x-[10deg]">
           <div className="flex items-center">
             <img
-              src="/newabout/about1.png"
+              src="/newabout/about1.webp"
               alt="Tiger1"
               className="rounded-2xl ab-img2"
             />
           </div>
           <div className="space-y-5">
             <img
-              src="/newabout/about2.png"
+              src="/newabout/about2.webp"
               alt="Tiger3"
               className="rounded-2xl"
             />
             <img
-              src="/newabout/about3.png"
+              src="/newabout/about3.webp"
               className="bg-whiterounded-2xl ab-img3"
             />
           </div>

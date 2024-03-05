@@ -64,8 +64,8 @@ const Preview = () => {
         />
         {/* Image */}
         <img
-          src="/cat_image.png"
-          alt="cat_image"
+          src="/cat_image.webp"
+          alt="Cloud image"
           className="w-[75%] mx-auto pt-14 relative z-10"
         />
         {/* Right */}

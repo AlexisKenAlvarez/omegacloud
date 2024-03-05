@@ -75,7 +75,7 @@ const Footer = () => {
           className="w-[4%] absolute right-[20%] bottom-[10%] footer-left-2"
         />
         <img
-          src="/footer.png"
+          src="/footer.webp"
           alt="footer"
           className="w-full h-full  rounded-2xl sm:object-cover object-contain"
         />
